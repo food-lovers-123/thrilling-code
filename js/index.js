@@ -9,3 +9,4 @@ var challenge = 'conflict';
 console.log('let us resolve the ' + challenge);
 console.log('hi')
 var collaborators = ['Eddie','Pradeepa','Masaki'];
+collaborators.forEach(coll => console.log(coll));
